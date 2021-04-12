@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Quiz1Algoritmos/src"/>
+	<classpathentry kind="lib" path="Quiz1Algoritmos/libs/core.jar"/>
+	<classpathentry kind="output" path="Quiz1Algoritmos/bin"/>
+</classpath>
